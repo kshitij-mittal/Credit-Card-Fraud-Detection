@@ -14,7 +14,8 @@ The model right now has many caveats:
   <br/>
 - It does ‘too good of a job’
   <br/>
+
 The client wants a new algorithm that can prevent good transactions being classified as fraudulent. 
 They also want the new algorithm to be easier to explain
 
-More details in the analysis reports
+More details in the analysis report.
